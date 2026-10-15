@@ -1,0 +1,4 @@
+Code for reading ADS1256 dAQ module - Chinese clone
+CSV streaming and binary streaming - some protocol as used
+for the various ECG front ends.  USB desktop or MCU scopes are the
+back-ends for this
